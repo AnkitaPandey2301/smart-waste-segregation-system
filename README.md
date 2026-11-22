@@ -8,6 +8,13 @@
 [![Edge AI](https://img.shields.io/badge/Model-MobileNetV2_Quantized-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
 [![Microcontroller](https://img.shields.io/badge/MCU-ESP32_Dual--Core_240MHz-E7352C?logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Protocol](https://img.shields.io/badge/IoT_Protocol-MQTT_v5.0-660066)](https://mqtt.org/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Online_SCADA-00FF87?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ankitapandey2301.github.io/smart-waste-segregation-system/)
+
+---
+
+### 🌐 **Live Demo & SCADA Interface**
+> **Experience the live system directly in your browser:**  
+> 🔗 **[https://ankitapandey2301.github.io/smart-waste-segregation-system/](https://ankitapandey2301.github.io/smart-waste-segregation-system/)**
 
 ---
 
